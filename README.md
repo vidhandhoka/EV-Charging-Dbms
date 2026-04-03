@@ -51,7 +51,11 @@ The system ensures efficient handling of EV charging data and provides insights 
 - Data analysis for:
   - Revenue generation  
   - Customer usage patterns  
-  - Station performance  
+  - Station performance
+
+  ## 📊 ER Diagram
+
+[ER Diagram](images/er_diagram.png)
 
 ---
 ## 📊 SQL Queries
